@@ -1,0 +1,30 @@
+{
+  "name": "superagent-gmxhr",
+  "version": "1.0.0",
+  "description": "Use superagent in your Greasemonkey or Tampermonkey userscripts to make GM_xmlhttpRequest requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damien Clark",
+  "license": "GPL-3.0+",
+  "bugs" : {
+    "url" : "https://github.com/superagent-gmxhr/superagent-gmxhr/issues"
+  },
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/damoclark/superagent-gmxhr.git"
+  },
+  "dependencies": {
+    "gmxhr": "^1.0.1"
+  },
+  "homepage": "https://github.com/damoclark/superagent-gmxhr.git",
+  "keywords": ["rummage","superagent","xhr","userscript","browserify","greasemonkey","tampermonkey"],
+  "devDependencies": {
+    "browserify": "^14.1.0",
+    "browserify-userscript-header": "^0.1.1",
+    "superagent": "^3.5.0",
+    "watchify": "^3.9.0"
+  }
+}
