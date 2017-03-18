@@ -108,7 +108,7 @@ due to an origin error (the xhr call was made for domain www.bom.gov.au from pag
 
 ## Licence
 
-Copyright (c) 2016 Damien Clark, [Damo's World](https://damos.world)<br/> <br/>
+Copyright (c) 2017 Damien Clark, [Damo's World](https://damos.world)<br/> <br/>
 Licenced under the terms of the
 [GPLv3](https://www.gnu.org/licenses/gpl.txt)<br/>
 ![GPLv3](https://www.gnu.org/graphics/gplv3-127x51.png "GPLv3")
