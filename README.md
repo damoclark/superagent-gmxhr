@@ -105,6 +105,7 @@ Error occurred using XMLHttpRequest ...
 
 due to an origin error (the xhr call was made for domain www.bom.gov.au from page on domain google.com.au)
 
+![Output from Firefox](https://www.evernote.com/l/AF1iStvz_AlDuKYG3_4taiHuLMSRW0qIpbQB/image.png)
 
 ## Licence
 
